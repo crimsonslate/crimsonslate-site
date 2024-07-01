@@ -1,0 +1,9 @@
+.*
+!.gitignore
+
+__pycache__/
+migrations/
+media/
+
+credentials.json
+token.json
