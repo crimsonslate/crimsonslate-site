@@ -4,6 +4,7 @@
 __pycache__/
 migrations/
 media/
+db.*
 
 credentials.json
 token.json
